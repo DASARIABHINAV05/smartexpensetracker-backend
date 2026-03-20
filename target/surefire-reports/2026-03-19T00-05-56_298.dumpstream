@@ -1,5 +1,0 @@
-# Created at 2026-03-19T00:05:56.532
-Boot Manifest-JAR contains absolute paths in classpath 'D:\Documents\workspace-spring-tools-for-eclipse-5.0.0.RELEASE\expense-tracker-backend (2)\expense-tracker-backend\target\test-classes'
-Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
-'other' has different root
-
